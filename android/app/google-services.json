@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768498679706",
+    "project_id": "fir-demo-bdc9b",
+    "storage_bucket": "fir-demo-bdc9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768498679706:android:dc4969facfe8c043ec8423",
+        "android_client_info": {
+          "package_name": "com.example.abc_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFCLc44wqi6tKYOP4dFNUO1zKD4XPCacM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
